@@ -1,0 +1,7 @@
+#define DIRECT_PINS { { GP1, GP2, GP3, GP4} }
+#define ENCODERS_PAD_A { GP26 }
+#define ENCODERS_PAD_B { GP27 }
+#define ENCODER_RESOLUTION 9
+#define I2C_DRIVER I2CD1
+#define I2C1_SDA_PIN GP6
+#define I2C1_SCL_PIN GP7
