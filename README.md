@@ -12,7 +12,7 @@ This was my first time using KiCAD and Fusion360. I struggled a bit creating the
 
 ### Specifications
 
-BOM:
+BOM (https://docs.google.com/spreadsheets/d/1hUth15_CIp9PDY0lxdcaeFA97FQI-jCMW6N-8YT37j8/edit?usp=sharing):
 - 3x Cherry MX Switches
 - 1x EC11 Rotary Encoder
 - 1x 0.91" 128x32 OLED Display
