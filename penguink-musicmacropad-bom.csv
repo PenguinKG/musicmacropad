@@ -1,0 +1,15 @@
+KIT Items,Description,Quantity,Unit Price ($),Total Price ($),URL,NET PRICE,Running Total
+SEEED Studios XIAO RP2040 DIP,Microcontroller,1,9.85,9.85,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,9.85,9.85
+Cherry MX Switches (Akko Rose Red Switches),Switches (ALREADY HAVE THEM),3,0,0,https://mechanicalkeyboards.com/products/cherry-mx-red-45g-linear,0,9.85
+Blank Cherry MX-Style Keycaps,Keycaps,3,0.748,7.48 (MOQ 10),https://www.aliexpress.us/item/3256808411020933.html,7.48,17.33
+Alps EC-11 Rotary Encoder,Knob,1,2.63,2.63,https://www.aliexpress.us/item/3256806414004024.html,2.63,19.96
+M3x16mm Screws,Case Screws,5,0.047,0.235,https://www.vistronica.com/herramientas/tornilleria-/tornillo-estrella-cabeza-redonda-m3x16-mm-detail.html,0.24,20.2
+"White OLED 0.91"" Screen 128x32",OLED screen,1,1.83,1.83,https://www.aliexpress.us/item/1005010297760765.html,1.83,22.03
+FINAL PRICE FOR KIT ITEMS:,$22.03,(Contained in provided kit),,,,,
+,,,,,,,
+CASE Items,Description,Quantity,Unit Price ($),Total Price ($),URL,NET PRICE,Running Total
+3D-printed case,TO BE PROVIDED BY ANOTHER HACK CLUBBER,1,0,0,N/A,0,0
+,,,,,,,
+JLCPCB,PCB for Macropad,1,0.4,2 (MOQ 5),N/A,2.15,2.15
+JLCPCB Shipping,Shipping for PCB,1,11.46,11.46,"N/A - Global Standard Direct Line, Cheapest Option.",12.29,14.44
+FINAL PRICE FOR GRANT:,$14.44,,,,,,
